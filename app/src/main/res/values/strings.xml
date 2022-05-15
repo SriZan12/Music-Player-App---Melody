@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Melody</string>
+    <string name="welcome_to_n_melody">Welcome to\n Melody</string>
+    <string name="my_music">My music</string>
+    <string name="melody_music">Melody Music</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="melodyMusic">Melody Music</string>
+    <string name="_2_00">2:00</string>
+</resources>
